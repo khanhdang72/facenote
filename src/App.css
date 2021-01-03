@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.title {
+  font-family: 'Poppins';
+  font-size: 60px;
+  color: #0ccac4;
+  margin: 0.5em 0 0.1em 0;
+}
