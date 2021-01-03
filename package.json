@@ -2,7 +2,7 @@
   "name": "facenote",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://khanhdang72.github.io/facenote",
+  "homepage": "https://khanhdang72.github.io/facenote/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.2",
